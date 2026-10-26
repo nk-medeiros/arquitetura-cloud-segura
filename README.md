@@ -1,5 +1,6 @@
-   # Arquitetura Cloud Segura
-   Trabalho: Segurança Cloud (IAM, Redes e Boas Práticas)
-   Integrantes: Nome 1, Nome 2, Nome 3
-   Ferramenta: Draw.io
-   Arquivos em /meu-projeto
+# Arquitetura Cloud Segura
+
+- **Trabalho:** Segurança Cloud (IAM, Redes e Boas Práticas)
+- **Integrantes:** Jhonny Emanoel, Milton Magalhães e Nayara Medeiros
+- **Ferramenta:** Draw.io (diagrams.net)
+- **Arquivos:** na pasta `/meu-projeto`
